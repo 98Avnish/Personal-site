@@ -1,5 +1,7 @@
-body {
-  background-color: powderblue;
+html, body {
+    /* margin:0;
+    padding:0; */
+    background-color: powderblue;
 }
 
 img {
