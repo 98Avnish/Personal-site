@@ -1,0 +1,33 @@
+html, body {
+    /* margin:0;
+    padding:0; */
+    background-color: powderblue;
+}
+
+img {
+  border-radius: 80%;
+  height: 50%;
+}
+
+hr {
+  border-color: silver;
+  width: 20%;
+  border-style: dotted none none;
+  border-width: 5px;
+}
+
+th {
+  padding: 5px;
+}
+
+td {
+  padding: 5px;
+}
+
+th:hover {
+  color: silver;
+}
+
+h1, h3 {
+  color: #46b3e6;
+}
